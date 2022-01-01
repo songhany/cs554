@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+	font-size: 14pt;
+}
+
+body {
+	background: #f0f0f0;
+	font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+} 
+
+
+header {
+	border-bottom: 1px solid #dbd8d8;
+}
+
+a { 
+	text-decoration: none; 
+}
+
+.error {
+	font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+	color:rgb(206, 42, 42);
+}

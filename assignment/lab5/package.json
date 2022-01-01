@@ -1,0 +1,27 @@
+{
+	"name": "server-lab5",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "Songhan Yu 10470449",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.0",
+		"bluebird": "^3.7.2",
+		"lodash": "^4.17.20",
+		"react-image": "^4.0.3",
+		"redis": "^3.0.2",
+		"redis-server": "^1.2.2",
+		"unsplash-js": "^7.0.15",
+		"uuid": "^8.0.0",
+		"apollo-datasource-rest": "^0.11.0",
+		"apollo-server": "2.19.1",
+		"graphql": "15.4.0",
+		"node-fetch": "^2.6.1"
+	}
+}

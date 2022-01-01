@@ -1,0 +1,11 @@
+<main>
+  <ul>
+    {{#each shows}}
+    <li><a href="/show/{{this.show.id}}">{{this.show.name}}</a></li>
+    {{/each}}
+  </ul>
+</main>
+
+{{#if hasErrors}}  <!-- If no matches are found, you will print the following HTML paragraph -->
+  <p class="not-found">{{error}}</p>
+{{/if}}

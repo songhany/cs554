@@ -1,0 +1,83 @@
+<main>
+  <div>
+    <h1>{{show.name}}</h1>
+    <img alt="{{show.name}}" src="{{show.image.medium}}">
+
+    <dl>
+      <dt>Language</dt>
+      <dd>{{show.language}}</dd>
+
+      <dt>Genres</dt>
+      <dd>
+        <ul>
+          {{#each show.genres}}
+            <li>{{this}}</li>
+          {{/each}}
+        </ul>
+      </dd>
+
+      <dt>Status</dt>
+      {{#if show.status}}
+      <dd>{{show.status}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>Runtime</dt>
+      {{#if show.runtime}}
+      <dd>{{show.runtime}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>Premiered</dt>
+      {{#if show.premiered}}
+      <dd>{{show.premiered}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>Ended</dt>
+      {{#if show.ended}}
+      <dd>{{show.ended}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>TV Maze URL</dt>
+      {{#if show.url}}
+      <dd>{{show.url}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>Official Site</dt>
+      {{#if show.officialSite}}
+      <dd>{{show.officialSite}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>Average Rating</dt>
+      {{#if show.rating.average}}
+      <dd>{{show.rating.average}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>Network</dt>
+      {{#if show.network.name}}
+      <dd>{{show.network.name}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+
+      <dt>Summary</dt>
+      {{#if show.summary}}
+      <dd>{{show.summary}}</dd>
+      {{else}}
+      <dd>Null</dd>
+      {{/if}}
+    </dl>
+  </div>
+</main>

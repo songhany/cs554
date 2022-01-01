@@ -1,0 +1,17 @@
+{
+  "name": "gulpexapp",
+  "version": "1.0.0",
+  "description": "Example app using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
