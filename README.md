@@ -1,2 +1,2 @@
-# CS554-WD
-Project Assignment for Web Development II
+# CS554-WP
+Project Assignment for Web Programming II
