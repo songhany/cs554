@@ -23,9 +23,6 @@ Independent Technologies:
 ImageMagick 
 AWS
 
-Github repo link: 
-https://github.com/Tianqi-Yao/CS554_Final_Project_2021Fall
-
 
 
 # How to run the project
