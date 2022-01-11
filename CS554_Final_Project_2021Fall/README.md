@@ -3,7 +3,7 @@
 
 Group Name: Fall2021WEB Team
 
-Project​​ Description
+**Project​​ Description:**
 The project is for people to make and find tasty foods' receipe. Users can see other users’ sharing information on this platform. Users can find and upload their recipe as well as use a task tracker to plan buying different ingredients.
 
 
