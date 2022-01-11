@@ -26,7 +26,7 @@ AWS
 
 # How to run the project
 
-## How to use
+## Intall
 
 install mongoDB
 
@@ -36,7 +36,7 @@ install graphicsmagick
 
 install redis
 
-## Programs that need to be run in advance
+## Programs that need to be run
 
 redis-server
 
@@ -44,7 +44,7 @@ mongoDB
 
 ## Running Projects
 
-### go to server folder
+### Server folder
 
 cd server
 
@@ -52,7 +52,7 @@ npm install
 
 npm start
 
-### go to client folder
+### Client folder
 
 cd client
 
