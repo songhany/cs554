@@ -13,12 +13,12 @@ Yuyang Peng
 Tianqi Yao		
 Songhan Yu      	           
 
-Course Technologies:
+*Course Technologies:*
 React
 Redis
 Firebase
 
-Independent Technologies:
+*Independent Technologies:*
 ImageMagick 
 AWS
 
