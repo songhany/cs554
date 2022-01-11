@@ -56,15 +56,15 @@ npm install
 
 npm start
 
-# about seed.js
+# About seed.js
 There are three test user in seed file and 
 test name is testuser1@email.com  password 123456
 
-# about imagemagick
+# About imagemagick
 We use imagemagick to add a watermark to each user's uploaded image. This protects the copyright of our website.
 
-# google login
-The google login auth can only use in domain localhost, for we don't have a custom domain the firebase can't auth the domain. So the google sign can't use in the aws
+# Firebase & Google login
+The google login auth can only be used in localhost, since we don't have a customized URL.
 
 # How to go to AWS
 url: http://3.144.108.161:3000/
