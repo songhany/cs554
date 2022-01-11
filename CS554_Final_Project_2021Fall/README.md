@@ -44,7 +44,7 @@ mongoDB
 
 ## Running Projects
 
-### Server folder
+### server side
 
 cd server
 
@@ -52,7 +52,7 @@ npm install
 
 npm start
 
-### Client folder
+### client side
 
 cd client
 
