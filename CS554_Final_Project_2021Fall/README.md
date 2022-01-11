@@ -26,7 +26,7 @@ AWS
 
 # How to run the project
 
-## need to install
+## How to use
 
 install mongoDB
 
@@ -46,11 +46,15 @@ mongoDB
 
 ### go to server folder
 
+cd server
+
 npm install
 
 npm start
 
 ### go to client folder
+
+cd client
 
 npm install
 
