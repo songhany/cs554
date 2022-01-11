@@ -4,7 +4,7 @@
 Group Name: Fall2021WEB Team
 
 Project​​ Description
-The project is for people sharing their recipe and finding local restaurants, which help people become better cooks in the future. People can upload their recipe and make todo list for 
+The project is for people to make and find tasty foods' receipe. Users can see other users’ sharing information on this platform. Users can find and upload their recipe as well as use a task tracker to plan buying different ingredients.
 
 
 Group members: 
