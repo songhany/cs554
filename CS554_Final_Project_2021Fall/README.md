@@ -3,15 +3,15 @@
 
 Group Name: Fall2021WEB Team
 
-**Project​​ Description:**
-The project is for people to make and find tasty foods' receipe. Users can see other users’ sharing information on this platform. Users can find and upload their recipe as well as use a task tracker to plan buying different ingredients.
-
-
 Group members: 
 Yujie He		
 Yuyang Peng		
 Tianqi Yao		
 Songhan Yu      	           
+
+**Project​​ Description:**
+The project is for people to make and find tasty foods' receipe. Users can see other users’ sharing information on this platform. Users can find and upload their recipe as well as use a task tracker to plan buying different ingredients.
+
 
 **Course Technologies:**
 React
